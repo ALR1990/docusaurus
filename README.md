@@ -55,6 +55,10 @@ Short on time? Check out our [5-minute tutorial ⏱️](https://tutorial.docusau
 
 > Here's a minor change to the Readme file so I can demo a Pull Request! 
 
+- **Minor Change #2!**
+
+> Here's a minor change to the Readme file so I can demo a Pull Request! 
+
 
 ## Installation
 
