@@ -47,6 +47,10 @@ Short on time? Check out our [5-minute tutorial ⏱️](https://tutorial.docusau
 
 > While Docusaurus ships with the key pages and sections you need to get started, including a home page, a docs section, a [blog](https://docusaurus.io/docs/blog), and additional support pages, it is also [customizable](https://docusaurus.io/docs/creating-pages) to ensure you have a site that is [uniquely yours](https://docusaurus.io/docs/styling-layout).
 
+- **Minor Change**
+
+> Here's a minor change to the Readme file so I can demo a Pull Request!
+
 ## Installation
 
 Use the initialization CLI to create your site:
